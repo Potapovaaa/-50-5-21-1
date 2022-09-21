@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\bin\Debug\net5.0\Калькулятор.exe
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\bin\Debug\net5.0\Калькулятор.deps.json
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\bin\Debug\net5.0\Калькулятор.runtimeconfig.json
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\bin\Debug\net5.0\Калькулятор.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\bin\Debug\net5.0\Калькулятор.dll
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\bin\Debug\net5.0\ref\Калькулятор.dll
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\bin\Debug\net5.0\Калькулятор.pdb
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.dll
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\ref\Калькулятор.dll
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.pdb
+C:\Users\Admin\source\repos\Калькулятор\Калькулятор\obj\Debug\net5.0\Калькулятор.genruntimeconfig.cache
